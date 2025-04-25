@@ -1,0 +1,15 @@
+# ninja log v5
+1822	1931	7673256215711626	projekt_1.exe	4cc7860b09868152
+3	1822	7673256214586438	CMakeFiles/projekt_1.dir/main.cpp.obj	1fafab9506718e7b
+1	145	7673257107296793	build.ninja	cc54fea481bc4982
+11	85	7673189846586218	CMakeFiles/projekt_1.dir/insertionSort.cpp.obj	d07f04b2d0d8a4b4
+6	48	7673223812699033	CMakeFiles/projekt_1.dir/ObslugaPrzykladu2.cpp.obj	177c5227a0940730
+7	51	7673195577852654	CMakeFiles/projekt_1.dir/obslugaPrzykladu1.cpp.obj	8f6012ea39305ed8
+18	2139	7673189867093318	CMakeFiles/projekt_1.dir/timer.cpp.obj	f39f9f416fd5f66d
+7	55	7673193450368075	CMakeFiles/projekt_1.dir/heapSort.cpp.obj	40a926e036a9f05e
+7	50	7673199332274148	CMakeFiles/projekt_1.dir/quickSort.cpp.obj	2ec87666eb63860c
+13	61	7673204971234783	CMakeFiles/projekt_1.dir/quickSortDesc.cpp.obj	352f9c78a30e79b9
+10	58	7673204971204957	CMakeFiles/projekt_1.dir/shellSort.cpp.obj	32cd4a7fde9e42c6
+8	56	7673243774592460	CMakeFiles/projekt_1.dir/service1.cpp.obj	98051c669007b9e
+5	56	7673243774592460	CMakeFiles/projekt_1.dir/service2.cpp.obj	c114b9bfd782ada4
+2	110	7673257401715937	projekt_1.exe	4cc7860b09868152
